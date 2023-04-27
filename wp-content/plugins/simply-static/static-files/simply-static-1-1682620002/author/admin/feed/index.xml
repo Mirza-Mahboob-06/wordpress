@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Notes@MJCET</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Towards organizing study material</description>
+	<lastBuildDate>Sun, 23 Apr 2023 17:07:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-27-at-6.04.37-PM.jpeg</url>
+	<title>admin &#8211; Notes@MJCET</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>programming</title>
+		<link>/2023/04/23/programming/</link>
+					<comments>/2023/04/23/programming/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 23 Apr 2023 17:07:53 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=53</guid>
+
+					<description><![CDATA[Python&#160;is a&#160;high-level,&#160;general-purpose programming language. Its design philosophy emphasizes&#160;code readability&#160;with the use of significant indentation via the&#160;off-side rule.[33] Python is&#160;dynamically typed&#160;and&#160;garbage-collected. It supports multiple&#160;programming paradigms, including&#160;structured&#160;(particularly&#160;procedural),&#160;object-oriented&#160;and&#160;functional programming. It is often described as a &#8220;batteries included&#8221; language due to its comprehensive&#160;standard library.[34][35] Guido van Rossum&#160;began working on Python in the late 1980s as a successor to the&#160;ABC &#8230;<p class="read-more"> <a class="" href="/2023/04/23/programming/"> <span class="screen-reader-text">programming</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Python</strong>&nbsp;is a&nbsp;<a href="https://en.wikipedia.org/wiki/High-level_programming_language">high-level</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/General-purpose_programming_language">general-purpose programming language</a>. Its design philosophy emphasizes&nbsp;<a href="https://en.wikipedia.org/wiki/Code_readability">code readability</a>&nbsp;with the use of significant indentation via the&nbsp;<a href="https://en.wikipedia.org/wiki/Off-side_rule">off-side rule</a>.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-7-33">[33]</a></sup></p>
+
+
+
+<p>Python is&nbsp;<a href="https://en.wikipedia.org/wiki/Type_system#DYNAMIC">dynamically typed</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)">garbage-collected</a>. It supports multiple&nbsp;<a href="https://en.wikipedia.org/wiki/Programming_paradigm">programming paradigms</a>, including&nbsp;<a href="https://en.wikipedia.org/wiki/Structured_programming">structured</a>&nbsp;(particularly&nbsp;<a href="https://en.wikipedia.org/wiki/Procedural_programming">procedural</a>),&nbsp;<a href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Functional_programming">functional programming</a>. It is often described as a &#8220;batteries included&#8221; language due to its comprehensive&nbsp;<a href="https://en.wikipedia.org/wiki/Standard_library">standard library</a>.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-About-34">[34]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-35">[35]</a></sup></p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>&nbsp;began working on Python in the late 1980s as a successor to the&nbsp;<a href="https://en.wikipedia.org/wiki/ABC_(programming_language)">ABC programming language</a>&nbsp;and first released it in 1991 as Python&nbsp;0.9.0.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-36">[36]</a></sup>&nbsp;Python&nbsp;2.0 was released in 2000. Python&nbsp;3.0, released in 2008, was a major revision not completely&nbsp;<a href="https://en.wikipedia.org/wiki/Backward_compatibility">backward-compatible</a>&nbsp;with earlier versions. Python&nbsp;2.7.18, released in 2020, was the last release of Python&nbsp;2.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-37">[37]</a></sup></p>
+
+
+
+<p>Python consistently ranks as one of the most popular programming languages.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-38">[38]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-39">[39]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-tiobecurrent-40">[40]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-41">[41]</a></sup></p>
+
+
+
+<h2 class="wp-block-heading">History</h2>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/File:Guido_van_Rossum_OSCON_2006_cropped.png"></a></p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/File:Guido_van_Rossum_OSCON_2006_cropped.png"></a></p>
+
+
+
+<p>The designer of Python,&nbsp;<a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>, at&nbsp;<a href="https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Convention">OSCON</a>&nbsp;2006</p>
+
+
+
+<p>Main article:&nbsp;<a href="https://en.wikipedia.org/wiki/History_of_Python">History of Python</a></p>
+
+
+
+<p>Python was conceived in the late 1980s<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-venners-interview-pt-1-42">[42]</a></sup>&nbsp;by&nbsp;<a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>&nbsp;at&nbsp;<a href="https://en.wikipedia.org/wiki/Centrum_Wiskunde_%26_Informatica">Centrum Wiskunde &amp; Informatica</a>&nbsp;(CWI) in the&nbsp;<a href="https://en.wikipedia.org/wiki/Netherlands">Netherlands</a>&nbsp;as a successor to the&nbsp;<a href="https://en.wikipedia.org/wiki/ABC_(programming_language)">ABC programming language</a>, which was inspired by&nbsp;<a href="https://en.wikipedia.org/wiki/SETL">SETL</a>,<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-12-43">[43]</a></sup>&nbsp;capable of&nbsp;<a href="https://en.wikipedia.org/wiki/Exception_handling">exception handling</a>&nbsp;and interfacing with the&nbsp;<a href="https://en.wikipedia.org/wiki/Amoeba_(operating_system)">Amoeba</a>&nbsp;operating system.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-faq-created-13">[13]</a></sup>&nbsp;Its implementation began in December&nbsp;1989.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-timeline-of-python-44">[44]</a></sup>&nbsp;Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his &#8220;permanent vacation&#8221; from his responsibilities as Python&#8217;s &#8220;<a href="https://en.wikipedia.org/wiki/Benevolent_dictator_for_life">benevolent dictator for life</a>&#8220;, a title the Python community bestowed upon him to reflect his long-term commitment as the project&#8217;s chief decision-maker.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-lj-bdfl-resignation-45">[45]</a></sup>&nbsp;In January&nbsp;2019, active Python core developers elected a five-member Steering Council to lead the project.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-46">[46]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-47">[47]</a></sup></p>
+
+
+
+<p>Python&nbsp;2.0 was released on 16 October 2000, with many major new features such as&nbsp;<a href="https://en.wikipedia.org/wiki/List_comprehension">list comprehensions</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Cycle_detection">cycle-detecting</a>&nbsp;garbage collection,&nbsp;<a href="https://en.wikipedia.org/wiki/Reference_counting">reference counting</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Unicode">Unicode</a>&nbsp;support.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-newin-2.0-48">[48]</a></sup>&nbsp;Python&nbsp;3.0, released on 3 December 2008, with many of its major features&nbsp;<a href="https://en.wikipedia.org/wiki/Backporting">backported</a>&nbsp;to Python&nbsp;2.6.x<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-pep-3000-49">[49]</a></sup>&nbsp;and 2.7.x. Releases of Python&nbsp;3 include the&nbsp;<code>2to3</code>&nbsp;utility, which automates the translation of Python&nbsp;2 code to Python&nbsp;3.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-50">[50]</a></sup></p>
+
+
+
+<p>Python&nbsp;2.7&#8217;s&nbsp;<a href="https://en.wikipedia.org/wiki/End-of-life_product">end-of-life</a>&nbsp;was initially set for 2015, then postponed to 2020 out of concern that a large body of existing code could not easily be forward-ported to Python&nbsp;3.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-51">[51]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-52">[52]</a></sup>&nbsp;No further security patches or other improvements will be released for it.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-53">[53]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-54">[54]</a></sup>&nbsp;Currently only 3.7 and later are supported. In 2021, Python&nbsp;3.9.2 and 3.8.8 were expedited<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-55">[55]</a></sup>&nbsp;as all versions of Python (including 2.7<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-56">[56]</a></sup>) had security issues leading to possible&nbsp;<a href="https://en.wikipedia.org/wiki/Remote_code_execution">remote code execution</a><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-57">[57]</a></sup>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Cache_poisoning">web cache poisoning</a>.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-58">[58]</a></sup></p>
+
+
+
+<p>In 2022, Python&nbsp;3.10.4 and 3.9.12 were expedited<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-59">[59]</a></sup>&nbsp;and 3.8.13, and 3.7.13, because of many security issues.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-60">[60]</a></sup>&nbsp;When Python&nbsp;3.9.13 was released in May 2022, it was announced that the 3.9 series (joining the older series 3.8 and 3.7) would only receive security fixes in the future.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-61">[61]</a></sup>&nbsp;On September 7, 2022, four new releases were made due to a potential&nbsp;<a href="https://en.wikipedia.org/wiki/Denial-of-service_attack">denial-of-service attack</a>: 3.10.7, 3.9.14, 3.8.14, and 3.7.14.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-62">[62]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-63">[63]</a></sup></p>
+
+
+
+<p>As of November&nbsp;2022,&nbsp;Python&nbsp;3.11 is the stable release. Notable changes from 3.10 include increased program execution speed and improved error reporting.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-64">[64]</a></sup></p>
+
+
+
+<h2 class="wp-block-heading">Design philosophy and features</h2>
+
+
+
+<p>Python is a&nbsp;<a href="https://en.wikipedia.org/wiki/Multi-paradigm_programming_language">multi-paradigm programming language</a>.&nbsp;<a href="https://en.wikipedia.org/wiki/Object-oriented_programming">Object-oriented programming</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Structured_programming">structured programming</a>&nbsp;are fully supported, and many of their features support functional programming and&nbsp;<a href="https://en.wikipedia.org/wiki/Aspect-oriented_programming">aspect-oriented programming</a>&nbsp;(including&nbsp;<a href="https://en.wikipedia.org/wiki/Metaprogramming">metaprogramming</a><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-13-65">[65]</a></sup>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Metaobject">metaobjects</a>).<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-14-66">[66]</a></sup>&nbsp;Many other paradigms are supported via extensions, including&nbsp;<a href="https://en.wikipedia.org/wiki/Design_by_contract">design by contract</a><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-15-67">[67]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-16-68">[68]</a></sup>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Logic_programming">logic programming</a>.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-17-69">[69]</a></sup></p>
+
+
+
+<p>Python uses&nbsp;<a href="https://en.wikipedia.org/wiki/Dynamic_typing">dynamic typing</a>&nbsp;and a combination of&nbsp;<a href="https://en.wikipedia.org/wiki/Reference_counting">reference counting</a>&nbsp;and a cycle-detecting garbage collector for&nbsp;<a href="https://en.wikipedia.org/wiki/Memory_management">memory management</a>.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-Reference_counting-70">[70]</a></sup>&nbsp;It uses dynamic&nbsp;<a href="https://en.wikipedia.org/wiki/Name_resolution_(programming_languages)">name resolution</a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Late_binding">late binding</a>), which binds method and variable names during program execution.</p>
+
+
+
+<p>Its design offers some support for functional programming in the&nbsp;<a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a>&nbsp;tradition. It has&nbsp;<code>filter</code>,<code>map</code>and<code>reduce</code>&nbsp;functions;&nbsp;<a href="https://en.wikipedia.org/wiki/List_comprehension">list comprehensions</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Associative_array">dictionaries</a>, sets, and&nbsp;<a href="https://en.wikipedia.org/wiki/Generator_(computer_programming)">generator</a>&nbsp;expressions.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-59-71">[71]</a></sup>&nbsp;The standard library has two modules (<code>itertools</code>&nbsp;and&nbsp;<code>functools</code>) that implement functional tools borrowed from&nbsp;<a href="https://en.wikipedia.org/wiki/Haskell">Haskell</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Standard_ML">Standard ML</a>.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-18-72">[72]</a></sup></p>
+
+
+
+<p>Its core philosophy is summarized in the document&nbsp;<em>The&nbsp;<a href="https://en.wikipedia.org/wiki/Zen_of_Python">Zen of Python</a></em>&nbsp;(<em>PEP 20</em>), which includes&nbsp;<a href="https://en.wikipedia.org/wiki/Aphorism">aphorisms</a>&nbsp;such as:<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-PEP20-73">[73]</a></sup></p>
+
+
+
+<ul>
+<li>Beautiful is better than ugly.</li>
+
+
+
+<li>Explicit is better than implicit.</li>
+
+
+
+<li>Simple is better than complex.</li>
+
+
+
+<li>Complex is better than complicated.</li>
+
+
+
+<li>Readability counts.</li>
+</ul>
+
+
+
+<p>Rather than building all of its functionality into its core, Python was designed to be highly&nbsp;<a href="https://en.wikipedia.org/wiki/Extensibility">extensible</a>&nbsp;via modules. This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications. Van Rossum&#8217;s vision of a small core language with a large standard library and easily extensible interpreter stemmed from his frustrations with&nbsp;<a href="https://en.wikipedia.org/wiki/ABC_(programming_language)">ABC</a>, which espoused the opposite approach.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-venners-interview-pt-1-42">[42]</a></sup></p>
+
+
+
+<p>Python strives for a simpler, less-cluttered syntax and grammar while giving developers a choice in their coding methodology. In contrast to&nbsp;<a href="https://en.wikipedia.org/wiki/Perl">Perl</a>&#8216;s &#8220;<a href="https://en.wikipedia.org/wiki/There_is_more_than_one_way_to_do_it">there is more than one way to do it</a>&#8221; motto, Python embraces a &#8220;there should be one—and preferably only one—obvious way to do it&#8221; philosophy.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-PEP20-73">[73]</a></sup>&nbsp;<a href="https://en.wikipedia.org/wiki/Alex_Martelli">Alex Martelli</a>, a&nbsp;<a href="https://en.wikipedia.org/wiki/Fellow">Fellow</a>&nbsp;at the&nbsp;<a href="https://en.wikipedia.org/wiki/Python_Software_Foundation">Python Software Foundation</a>&nbsp;and Python book author, wrote: &#8220;To describe something as &#8216;clever&#8217; is&nbsp;<em>not</em>&nbsp;considered a compliment in the Python culture.&#8221;<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-19-74">[74]</a></sup></p>
+
+
+
+<p>Python&#8217;s developers strive to avoid&nbsp;<a href="https://en.wikipedia.org/wiki/Premature_optimization">premature optimization</a>&nbsp;and reject patches to non-critical parts of the&nbsp;<a href="https://en.wikipedia.org/wiki/CPython">CPython</a>&nbsp;reference implementation that would offer marginal increases in speed at the cost of clarity.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-AutoNT-20-75">[75]</a></sup>&nbsp;When speed is important, a Python programmer can move time-critical functions to extension modules written in languages such as C; or use&nbsp;<a href="https://en.wikipedia.org/wiki/PyPy">PyPy</a>, a&nbsp;<a href="https://en.wikipedia.org/wiki/Just-in-time_compilation">just-in-time compiler</a>.&nbsp;<a href="https://en.wikipedia.org/wiki/Cython">Cython</a>&nbsp;is also available, which translates a Python script into C and makes direct C-level API calls into the Python interpreter.</p>
+
+
+
+<p>Python&#8217;s developers aim for it to be fun to use. This is reflected in its name—a tribute to the British comedy group&nbsp;<a href="https://en.wikipedia.org/wiki/Monty_Python">Monty Python</a><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-whyname-76">[76]</a></sup>—and in occasionally playful approaches to tutorials and reference materials, such as the use of the terms &#8220;spam&#8221; and &#8220;eggs&#8221; (a reference to&nbsp;<a href="https://en.wikipedia.org/wiki/Spam_(Monty_Python)">a Monty Python sketch</a>) in examples, instead of the often-used&nbsp;<a href="https://en.wikipedia.org/wiki/Foobar">&#8220;foo&#8221; and &#8220;bar&#8221;</a>.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-77">[77]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-78">[78]</a></sup></p>
+
+
+
+<p>A common&nbsp;<a href="https://en.wikipedia.org/wiki/Neologism">neologism</a>&nbsp;in the Python community is&nbsp;<em>pythonic</em>, which has a wide range of meanings related to program style. &#8220;Pythonic&#8221; code may use Python idioms well, be natural or show fluency in the language, or conform with Python&#8217;s minimalist philosophy and emphasis on readability. Code that is difficult to understand or reads like a rough transcription from another programming language is called&nbsp;<em>unpythonic</em>.<sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-79">[79]</a></sup><sup><a href="https://en.wikipedia.org/wiki/Python_(programming_language)#cite_note-80">[80]</a></sup></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/04/23/programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>plants</title>
+		<link>/2023/04/23/plants/</link>
+					<comments>/2023/04/23/plants/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 23 Apr 2023 17:06:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=50</guid>
+
+					<description><![CDATA[Peter G. Kevan, University Professor Emeritus at the School of Environmental Sciences, University of Guelph, explores here how plants regulate their body temperatures, including the implications in this respect for climate change science &#38; policy The temperature at and near the Earth’s surface is rising, much to the consternation of the world. Terrestrial life, including &#8230;<p class="read-more"> <a class="" href="/2023/04/23/plants/"> <span class="screen-reader-text">plants</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Peter G. Kevan, University Professor Emeritus at the School of Environmental Sciences, University of Guelph, explores here how plants regulate their body temperatures, including the implications in this respect for climate change science &amp; policy</h2>
+
+
+
+<p>The temperature at and near the Earth’s surface is rising, much to the consternation of the world.</p>
+
+
+
+<p>Terrestrial life, including human, is almost all restricted to a biofilm of few tens of metres above and below the surface. That life-supporting film, the biosphere, has, by comparison with the atmosphere, lithosphere and hydrosphere, the greatest historical, seasonal and daily variation in environmental conditions, including temperature, moisture, solar radiation, atmospheric disturbances, electromagnetic fluxes and&nbsp;<a href="https://www.openaccessgovernment.org/environmental-toxicology-how-chemicals-interact-with-environmental-species-and-human-physiology/47109/" target="_blank" rel="noreferrer noopener">chemical</a>&nbsp;composition. Life forms have adapted to those wide swings in environmental conditions and notably to temperature.</p>
+
+
+
+<p>It is well recognised that the diversity, abundance and activities of terrestrial life are influenced by two main climatic factors, temperature and water availability. Warmth and water favour life. Environmental temperatures may be too cold or too hot to allow certain life forms to thrive. Environmental moisture has more complex direct and indirect effects on life. There are, additionally, other environmental factors (e.g. salinity, pH, the nature of substrates) that influence life.&nbsp;<a href="https://www.openaccessgovernment.org/climate-talks-protect-planet/56616/" target="_blank" rel="noreferrer noopener">Global concern for climate change</a>&nbsp;invokes the effects of the atmospheric build-up of greenhouse gases. Global climate change influences all those factors as life’s diversity, distribution, abundance and activities are affected. The effects of global climate change on life are mostly inferred from general meteorology without much consideration for the actual environmental conditions close to the ground (micrometeorology) and within life forms (biometeorology). Micrometeorology and biometeorology must be applied to refining scientific understanding of the extent and consequences of climate change.</p>
+
+
+
+<p>Micrometeorology provides a more accurate and complex appreciation of ambient conditions affecting life, its diversity, abundance and activities. Biometeorology, in dealing with the relationship between living things and the weather, takes meteorology more directly into biology by seeking general, ecological, physiological and genetic explanations into the processes whereby ambient conditions influence life, its diversity, abundance and activities.</p>
+
+
+
+<p>A prime example of how climatology, meteorology and biometeorology combine is presented by geographical patterns (maps) of plant growth and survival, especially as used for agriculture and the predictive utility of heat units (often expressed at growing degree days) and rainfall in farming. Intrinsic to those patterns are micrometeorological effects, amounts of direct and diffuse insolation, as well as atmospheric humidity and wind. The actual temperatures within plants are missing from biometeorological consideration.</p>
+
+
+
+<p>Biothermometry (the measurement of body temperatures) is widely applied in medicine, but less often in other biosciences. For medicine, deviations from normal body temperature are regarded as symptomatic of ill health or stress. Human beings, mammals and birds maintain constant and closely regulated body temperatures and are strict homoeotherms (endotherms). Most other animals, plants and fungi are usually considered poikilotherms (ectotherms) even though many have various means to control their body temperatures. Biothermometry has been applied to plants through direct measurements and by remote IR thermometry.</p>
+
+
+
+<p>For flowers, the means of warming under cool conditions have been recently reviewed (van der Kooi et al. 2019)1 and include solar basking by orientation of plant parts to face the sun, closing of leaves or floral parts and so retaining heat, adaptations that emulate translucent miniature greenhouses and, in some special cases, metabolic heating.</p>
+
+
+
+<p>For other plants parts, notably stems, Kevan et al. (2018)2 present data showing that hollowness imbues plants with elevated temperatures in sunny conditions. Cooling under heat stress is less understood. Apart from the orientation of leaves by paraheliotropism to reduce solar heating, cooling is attributed to transpirational heat loss (i.e. heat loss by the evaporation of water through stomata, akin to sweating). The&nbsp;<a href="https://www.openaccessgovernment.org/plant-cold-hardiness/52262/" target="_blank" rel="noreferrer noopener">cooling effect of trees</a>&nbsp;is not simply by shading but includes transpiration and may involve paraheliotropism. Those phenomena are increasingly invoked for mitigation of heat in urban landscapes. Herbaceous plants may also exhibit paraheliotropism and so reduce incident solar heating stress, but, additionally, show growth responses mediated by interacting heat and light sensitivities that result in heat avoidance.</p>
+
+
+
+<p>Thus, plants, although apparently static and passive, show remarkable capacities to regulate their internal temperatures by a complex variety of strategies. Those include solar heating, as in diaheliotropic solar furnaces (Kevan,1989)3, microgreenhouse effects (Kevan et al 2018, 2019)4,5, metabolic endothermy (van der Kooi et al. 2019)1 and concomitant cooling by evapotranspiration (the swamp cooler effect (Galen C, 2006)6, paraheliotropism and adaptive morphogenesis (Crawford et al, 2012).7 Thus, plants are, as Michaletz et al. (2015)8 argue, but from the viewpoint of metabolism, limited homoeotherms!</p>
+
+
+
+<p>A major consequence of plant thermoregulation is atmospheric air conditioning. Transpirational evaporation humidifies the atmosphere above the vegetational canopy. With nocturnal, altitudinal and adiabatic atmospheric cooling, moisture in the air condenses as the dew point is reached – clouds form and rain may result, sometimes with violent electrical discharges (thunderstorms). The more humid the air, as over forests, the lower in the atmosphere the processes are initiated. By comparison, drier and hotter air rises further, even if somewhat faster, to possibly form thinner, higher clouds that may be blown away. Deforestation, devegetation and desertification forestall, or even preclude, autochthonous, locally derived, moisture cycling. Those processes, exacerbated by global heating and the influence of increasing oceanic evaporation, may contribute considerably to extreme weather events far from the sites of forest thermoregulation.</p>
+
+
+
+<p>Numerous means for the mitigation of the effects of climate change are advocated and instituted. Strategies range in scale from macro to micro; from direct intervention on atmospheric chemistry (reducing the influx of anthropogenic greenhouse gases, cloud seeding), indirect environmental amelioration (irrigation, reafforestation, smoke smudging), to genetic manipulations (cold, heat, drought and pest tolerant crops and livestock). Plant thermoregulation and its consequences are hardly understood in terms of climate change.</p>
+
+
+
+<p>A new, dynamic and highly interdisciplinary, scientific approach to phytomicrometeorology is needed. The cast of players must range from theoretical physicists with interests in atmospheric thermodynamics, to climatologists, meteorologists, micrometeorologists, botanists of all stripes and eclectic ecologists.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/04/23/plants/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
